@@ -1,0 +1,26 @@
+{
+  "name": "test9",
+  "version": "1.0.0",
+  "description": "hello from master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timoweave/test9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timoweave/test9/issues"
+  },
+  "homepage": "https://github.com/timoweave/test9#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "d3": "^4.2.8",
+    "gulp": "^3.9.1",
+    "polymer-cli": "^0.16.0"
+  }
+}
